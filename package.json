@@ -53,8 +53,9 @@
     ]
   },
   "dependencies": {
-    "@fontsource/inter": "4.5.7",
-    "@prisma/client": "3.12.0",
+    "@fontsource/inter": "4.5.0",
+    "@prisma/client": "3.9.2",
+    "@reduxjs/toolkit": "^1.6.1",
     "bcryptjs": "^2.4.3",
     "chalk": "^4.1.1",
     "chart.js": "^2.9.4",
@@ -78,9 +79,14 @@
     "jose": "2.0.5",
     "maxmind": "^4.3.6",
     "moment-timezone": "^0.5.33",
+<<<<<<< HEAD
     "next": "12.1.4",
     "node-fetch": "^3.2.3",
     "npm-run-all": "^4.1.5",
+=======
+    "next": "12.0.10",
+    "prompts": "2.4.2",
+>>>>>>> 77043b2 (Updated prisma and next.)
     "prop-types": "^15.7.2",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
@@ -112,12 +118,22 @@
     "postcss": "^8.4.12",
     "postcss-flexbugs-fixes": "^5.0.2",
     "postcss-import": "^14.0.2",
+<<<<<<< HEAD
     "postcss-preset-env": "^7.4.2",
     "postcss-rtlcss": "^3.6.1",
     "prettier": "^2.6.2",
     "prisma": "3.12.0",
     "prompts": "2.4.2",
     "rollup": "^2.70.1",
+=======
+    "postcss-preset-env": "^6.7.0",
+    "postcss-rtlcss": "^3.3.2",
+    "prettier": "^2.3.2",
+    "prettier-eslint": "^13.0.0",
+    "prisma": "3.9.2",
+    "rollup": "^2.48.0",
+    "rollup-plugin-hashbang": "^2.2.2",
+>>>>>>> 77043b2 (Updated prisma and next.)
     "rollup-plugin-terser": "^7.0.2",
     "stylelint": "^14.5.3",
     "stylelint-config-css-modules": "^4.1.0",
