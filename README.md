@@ -1,7 +1,6 @@
 # Build
 `make`
 
-
 # umami
 
 Umami is a simple, fast, privacy-focused alternative to Google Analytics.
@@ -74,7 +73,7 @@ npm run build
 npm start
 ```
 
-By default this will launch the application on `http://localhost:3000`. You will need to either 
+By default this will launch the application on `http://localhost:3000`. You will need to either
 [proxy](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/) requests from your web server
 or change the [port](https://nextjs.org/docs/api-reference/cli#production) to serve the application directly.
 
